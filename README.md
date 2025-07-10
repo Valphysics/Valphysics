@@ -1,16 +1,22 @@
-## Hi there 👋
+Hello there 👋, I'm Valeria Rodriguez
 
-<!--
-**Valphysics/Valphysics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• 🚀 I’m a Data Scientist
 
-Here are some ideas to get you started:
+• 📊 I study a degree in physics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• 📖 I’m currently learning BigData and AWS
+
+• 💬 Ask me about Data Analyst, Data Science, Machine Learning, SQL
+
+• 📫 How to reach me bvaleriarodrigueza@gmail.com
+
+
+Languages
+python  sql Machine Learning and Data Science
+scikit_learn  numpy pandas  matplotlib seaborn
+
+Data Analysis Tools
+PowerBI  Looker studio  
+
+Other
+git  linux  
