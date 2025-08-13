@@ -1,14 +1,14 @@
-Hello there 👋, I'm Valeria Rodriguez
+Hello there 👋 I'm Valeria Rodriguez
 
-• 🚀 I’m a Jr. Data Scientist/ Jr. Data Analyst
+• 🚀 I’m a Jr. Data Scientist / Jr. Data Analyst
 
-• 📊 I study a degree in physics
+• 📊 I'm completing my degree in physics
 
-• 📖 I’m currently learning Deep Learning 
+• 📖 I’m currently learning all about Deep Learning 
 
-• 💬 Ask me about Data Analyst, Data Science, Machine Learning, SQL
+• 💬 Ask me about Data Analysis, Data Science, Machine Learning, SQL
 
-• 📫 How to reach me bvaleriarodrigueza@gmail.com
+• 📫 Reach me at bvaleriarodrigueza@gmail.com
 
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/valeria-rodriguez-fisica/?locale=en_US" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
@@ -67,8 +67,8 @@ Hello there 👋, I'm Valeria Rodriguez
 
 <h2>✒️ Relevant Projects</h2>
 <ul>
-  <li><a target="_blank" href="https://github.com/victorve-l/Reckitt_EBAC">• Reckitt proyect</a></li>
-  <li><a target="_blank" href="https://github.com/victorve-l/Fruit_Color_Prediction">• Fruit color prediction</a></li>
+  <li><a target="_blank" href="https://github.com/Valphysics/Machine-Learning">• Machine Learning models</a></li>
+  <li><a target="_blank" href="https://github.com/Valphysics/Analisis-de-delitos-municipales">• Analysis of municipal crime</a></li>
 </ul>
 
 
