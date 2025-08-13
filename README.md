@@ -1,14 +1,14 @@
 Hello there 👋 I'm Valeria Rodriguez
 
-• 🚀 I’m a Jr. Data Scientist / Jr. Data Analyst
+• 🚀 Jr. Data Scientist / Jr. Data Analyst
 
 • 📊 I'm completing my degree in physics
 
-• 📖 I’m currently learning all about Deep Learning 
+• 📖 Currently learning all about Deep Learning 
 
 • 💬 Ask me about Data Analysis, Data Science, Machine Learning, SQL
 
-• 📫 Reach me at bvaleriarodrigueza@gmail.com
+• 📫 You can reach me at bvaleriarodrigueza@gmail.com
 
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/valeria-rodriguez-fisica/?locale=en_US" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
@@ -61,16 +61,22 @@ Hello there 👋 I'm Valeria Rodriguez
 <h2>📊 Data Analysis Tools</h2>
 <div style="text-align: center;">
   <small><strong>PowerBI</strong></small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <small><strong>Looker Studio</strong></small>
+  <small><strong>Spark</strong></small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <br><br><a target="_blank" href="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI-Logo.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="42" height="42" /></a>
+   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Spark" width="40" height="40"/> </a>
+
 </div>
 
 <h2>✒️ Relevant Projects</h2>
 <ul>
-  <li><a target="_blank" href="https://github.com/Valphysics/Machine-Learning">• Machine Learning models</a></li>
-  <li><a target="_blank" href="https://github.com/Valphysics/Analisis-de-delitos-municipales">• Analysis of municipal crime</a></li>
+  <li><a target="_blank" href="https://github.com/Valphysics/Machine-Learning">Machine Learning models</a></li>
+  <li><a target="_blank" href="https://github.com/Valphysics/Analisis-de-delitos-municipales">Analysis of municipal crime</a></li>
 </ul>
 
+<h2 align="left">Other</h2>
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
-Other
-git  linux  
+
+
